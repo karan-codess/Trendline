@@ -21,4 +21,5 @@ Feel free to contribute, customize, and use this template for your personal or p
 
 ## Output
 
+
 ![Screenshot 2025-03-29 122029](https://github.com/user-attachments/assets/b9a569ed-526d-41d3-aa19-0f34d2c1f87e)
